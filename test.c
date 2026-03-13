@@ -13,5 +13,4 @@ typedef enum Value {
 }Value;
 void main(){
     printf("%d\n",(Value) 100);
-    //这是一个建议
 }
